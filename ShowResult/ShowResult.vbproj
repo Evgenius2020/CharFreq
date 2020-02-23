@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>ShowResult</RootNamespace>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CharFreq.Implementation\CharFreq.Implementation.csproj" />
+    </ItemGroup>
+
+</Project>

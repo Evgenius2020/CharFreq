@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharFreq", "CharFreq\CharFreq.csproj", "{3F2B5C6C-59A1-4BAD-950A-24908D220A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharFreq.Implementation", "CharFreq.Implementation\CharFreq.Implementation.csproj", "{33F098E3-91FC-4581-A8D4-C6C367636AAB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ShowResult", "ShowResult\ShowResult.vbproj", "{E7FB5296-BF52-417A-B7D1-0AEA4F10EDF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F2B5C6C-59A1-4BAD-950A-24908D220A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2B5C6C-59A1-4BAD-950A-24908D220A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2B5C6C-59A1-4BAD-950A-24908D220A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2B5C6C-59A1-4BAD-950A-24908D220A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F098E3-91FC-4581-A8D4-C6C367636AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F098E3-91FC-4581-A8D4-C6C367636AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F098E3-91FC-4581-A8D4-C6C367636AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F098E3-91FC-4581-A8D4-C6C367636AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7FB5296-BF52-417A-B7D1-0AEA4F10EDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FB5296-BF52-417A-B7D1-0AEA4F10EDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FB5296-BF52-417A-B7D1-0AEA4F10EDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FB5296-BF52-417A-B7D1-0AEA4F10EDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
